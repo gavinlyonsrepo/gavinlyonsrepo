@@ -1,4 +1,4 @@
 
-**Open source development, mainly focused on embedded systems.**
+**Embedded systems development**
 
-**For an overview of all projects stored at this account and contact details see** [website.](https://gavinlyonsrepo.github.io/)
+**For an overview of all projects and libraries  at this account and contact details see** [website.](https://gavinlyonsrepo.github.io/)
