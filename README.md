@@ -1,5 +1,5 @@
 
-![Image ](https://github.com/gavinlyonsrepo/MAX471_PVI_METER/blob/main/extras/image/output.jpg)
+![Image ](https://github.com/gavinlyonsrepo/gavinlyonsrepo/blob/main/image/motor.jpeg)
 
 **Open source development mainly focused on embedded systems.**
 
