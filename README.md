@@ -1,6 +1,4 @@
 
-![Image ](https://github.com/gavinlyonsrepo/gavinlyonsrepo/blob/main/image/motor.jpeg)
-
 **Open source development mainly focused on embedded systems.**
 
 **For an overview of all projects and libraries at this account,**
