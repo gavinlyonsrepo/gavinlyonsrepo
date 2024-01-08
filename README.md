@@ -1,5 +1,5 @@
 
-**Open source development, mainly focused on embedded systems.**
+**Mainly focused on embedded systems programming**
 
 **For an overview of all projects at this account see my website.**
 
