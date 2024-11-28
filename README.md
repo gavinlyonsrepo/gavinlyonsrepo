@@ -2,7 +2,8 @@
 
 Open Source development mainly focused on embedded systems and electronics.
 
-If you have used these libraries and projects and found them useful you can donate at[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976).
+If you have used these libraries and projects and found them useful you can donate at
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976)
 
 For business inquiries or ideas for new open source projects please contact by email, glyons66@mail.com.
 
