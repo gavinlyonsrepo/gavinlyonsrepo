@@ -2,7 +2,7 @@
 
 **Embedded systems firmware support.** 
 
-[![Email Badge](https://img.shields.io/badge/Email-glyons66@hotmail.com-cyan?style=flat-square&logoColor=white)](mailto:[glyons66@hotmail.com]) : For business inquiries please contact by email. 
+[![Email Badge](https://img.shields.io/badge/Email-glyons66@hotmail.com-red?style=flat-square&logoColor=white)](mailto:[glyons66@hotmail.com]) : For business inquiries please contact by email. 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976)  : Donations welcome at Paypal .
 
