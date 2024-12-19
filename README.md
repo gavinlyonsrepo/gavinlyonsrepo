@@ -2,9 +2,9 @@
 
 **Embedded systems firmware support.**
 
-For business inquiries please contact by email : glyons66@mail.com.
+glyons66@mail.com : For business inquiries please contact by email. 
 
-Donations welcome at Paypal : [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976) .
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976)  : Donations welcome at Paypal .
 
-For an overview of all projects at this account see my github pages website :   [![Website](https://img.shields.io/badge/Website-Link-blue.svg)](https://gavinlyonsrepo.github.io/) .
+[![Website](https://img.shields.io/badge/Website-Link-blue.svg)](https://gavinlyonsrepo.github.io/) : For an overview of all projects at this account see my github pages website.  
  
